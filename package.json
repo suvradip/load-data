@@ -1,0 +1,27 @@
+{
+   "name": "load-data",
+   "version": "0.0.1",
+   "description": "A simple utility tool which implement the Fetch API method",
+   "main": "src/index.js",
+   "scripts": {},
+   "keywords": [],
+   "author": "",
+   "license": "ISC",
+   "dependencies": {},
+   "devDependencies": {
+      "eslint": "^4.19.1",
+      "eslint-config-airbnb-base": "^13.1.0",
+      "eslint-config-prettier": "^2.9.0",
+      "eslint-plugin-import": "^2.11.0",
+      "eslint-plugin-prettier": "^2.6.0",
+      "prettier": "^1.18.2"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/suvradip/load-data.git"
+   },
+   "bugs": {
+      "url": "https://github.com/suvradip/load-data/issues"
+   },
+   "homepage": "https://github.com/suvradip/load-data#readme"
+}
