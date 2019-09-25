@@ -1,5 +1,5 @@
 {
-   "name": "load-data",
+   "name": "load-dataurl",
    "version": "0.0.1",
    "description": "A simple utility tool which implement the Fetch API method",
    "main": "src/index.js",
